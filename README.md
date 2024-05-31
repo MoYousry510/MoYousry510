@@ -11,7 +11,16 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/mohammed-yousry-2ba72824b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yoouthrry/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
+<p align=center>
+  <a href="https://github.com/MoYousry510">
+    <img src="https://badges.pufler.dev/visits/MoYousry510/MoYousry510?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/MoYousry510?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/MoYousry510?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
+<hr>
 
 <hr>
 
